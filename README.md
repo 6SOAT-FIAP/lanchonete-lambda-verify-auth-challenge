@@ -1,0 +1,1 @@
+# lanchonete-lambda-verify-auth-challenge
